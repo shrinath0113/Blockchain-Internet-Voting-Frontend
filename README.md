@@ -3,11 +3,9 @@
 Internet based Voting system using Blockchain Technology was my final year college project.  
 This project has 2 parts -  
 Frontend: This repository contains source code of frontend which is developed using flutter SDK (unsound null safety / without null safety).  
-Backend: Source code for backend is available [Here](https://github.com/OmkarDabade/Blockchain-Internet-Voting-Backend)
+Backend: Source code for backend is available [Here](https://github.com/shrinath0113/Blockchain-Internet-Voting-Backend)
 
 ## Demo of the website
-
-For a basic demo without a server and without any login credentials. [Visit Here](https://omkardabade.github.io/Blockchain-Internet-Voting-Frontend)
 
 For full fledged, hosted website with a server backend please follow as mentioned below. (It may or may not work)
 
